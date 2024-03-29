@@ -1,6 +1,6 @@
- acte
- idiot
- xsc
+acte
+idiot
+xsc
 voiture
 eau
 pays
